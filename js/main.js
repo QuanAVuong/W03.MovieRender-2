@@ -81,3 +81,31 @@ $(document).ready(function() {
 
 
     })
+
+
+
+    // Step 3: Text box year filter
+    // suppress the default submit behavior: avoid reloading => can't respond to event
+    $('form').submit(function(event) { event.preventDefault(); })
+
+    // Keyup Event Handler:
+    $("#year").keyup(function() {
+        var userYear = parseInt($("#year").val());
+
+        $('div.movie').each(function() {
+
+            var movieYear = parseInt($(this).find('dd.year').html()) // html() returns just the content, not the corresponding html tags/structure ?
+            console.log($(this).find('dd.year').html())
+
+            // comparison: only shows movieYear > userYear:
+            if (movieYear >= userYear) {
+            	$(this).show();
+            } else {
+            	$(this).hide();
+            }
+
+        })
+    });
+
+
+    
