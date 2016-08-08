@@ -1,0 +1,629 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"getElementBy",
+				"getElementById(id)	Element"
+			],
+			[
+				"setTime",
+				"setTimeout〔function〕"
+			],
+			[
+				"getElements",
+				"getElementsByTagName(name)	Element"
+			],
+			[
+				"what",
+				"whatTime〔function〕"
+			],
+			[
+				"selce",
+				"selectVal)*1000"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"getE",
+				"getElementById(id)	Element"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"get",
+				"getElementsByTagName〔function〕"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"bor",
+				"border-box"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"setAttribute",
+				"setAttribute(name, value)	Element"
+			],
+			[
+				"atr",
+				"attributes	Element"
+			],
+			[
+				"getElemen",
+				"getElementsByTagName(name)	Element"
+			],
+			[
+				"getEle",
+				"getElementsByTagName(name)	Element"
+			],
+			[
+				"renderm",
+				"renderMovieCompact"
+			],
+			[
+				"movie",
+				"movieObj"
+			],
+			[
+				"disp",
+				"displayWide"
+			],
+			[
+				"dis",
+				"displayWide"
+			],
+			[
+				"render",
+				"renderMovieCompact"
+			],
+			[
+				"mo",
+				"movieObj"
+			],
+			[
+				"renderM",
+				"renderMovie〔function〕"
+			],
+			[
+				"forEach",
+				"forEach(callback)	Array"
+			],
+			[
+				"rend",
+				"renderMovie〔function〕"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"pos",
+				"pos	position: ${1:relative};"
+			],
+			[
+				"Hel",
+				"Helvetica	(doodle.css)"
+			],
+			[
+				"func",
+				"function〔keyword〕"
+			],
+			[
+				"forEa",
+				"forEach(callback)	Array"
+			],
+			[
+				"log",
+				"console.log();"
+			],
+			[
+				"consol",
+				"console.log	(Find Remainder.js)"
+			],
+			[
+				"con",
+				"console.	console.log()"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"live",
+				"livereload_plugin	Create new LiveReload plugin"
+			],
+			[
+				"link",
+				"linki	link - icon"
+			],
+			[
+				"scri",
+				"script	<script>"
+			],
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"scrip",
+				"script	Tag"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"str",
+				"startrek"
+			],
+			[
+				"sty",
+				"style	Tag"
+			],
+			[
+				"ul",
+				"ul	Tag"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"header",
+				"header	Tag"
+			],
+			[
+				"obj",
+				"object1"
+			],
+			[
+				"room",
+				"room1"
+			],
+			[
+				"add",
+				"addItem"
+			],
+			[
+				"setCo",
+				"setCollected"
+			],
+			[
+				"remove",
+				"removeItem"
+			],
+			[
+				"in",
+				"inventory"
+			],
+			[
+				"coll",
+				"collected"
+			],
+			[
+				"collec",
+				"collectable"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"h",
+				"h1	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 183.0,
+		"last_filter": "view in",
+		"selected_items":
+		[
+			[
+				"view in",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"satisfy",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"satisfy de",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packac",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control: enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"livereload enable",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"LiveReload: disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 792.0
+	},
+	"console":
+	{
+		"height": 180.0,
+		"history":
+		[
+			"console.log(\"testing\");",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/_ING/CS/GitHub/W03.MovieRender-2/index.sublime-workspace",
+		"/D/_ING/CABP/SU16/HTML5/1.js",
+		"/D/_ING/CABP/SU16/HTML/Quan Vuong/index.html",
+		"/D/_ING/CABP/SU16/HTML/2/columns.html",
+		"/D/_ING/CABP/SU16/HTML/3/formatting.html",
+		"/D/_ING/CABP/SU16/HTML/5/session-five.html",
+		"/D/_ING/CABP/SU16/HTML5/1.html",
+		"/I/HTML-CSS/TutsPlus - CSS3 Essentials/Project Files/image-captions/index.html",
+		"/D/_ING/CABP/SU16/HTML5/doodle.html",
+		"/C/Users/V2WM_000/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/V2WM_000/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/D/_ING/CS/GitHub/W02.MovieRender/FilmStrip1.mp4",
+		"/C/Users/V2WM_000/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/V2WM_000/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/_ING/AC/weekend2-project-master/css/style.css",
+		"/D/_ING/AC/weekend2-project-master/index.html",
+		"/D/_ING/CABP/SU16/HTML5/doodle.css",
+		"/I/HTML-CSS/TutsPlus - CSS3 Essentials/Project Files/image-captions/style.css",
+		"/D/_ING/CABP/SU16/HTML/Quan Vuong/css/main.css",
+		"/C/Users/V2WM_000/AppData/Roaming/Sublime Text 3/Packages/CSS3/CSS3.sublime-settings",
+		"/C/Users/V2WM_000/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/V2WM_000/Desktop/DYIConsole.js",
+		"/D/_ING/CS/JS/CODEWARS/Find Remainder.js",
+		"/C/Users/V2WM_000/Desktop/ANSWERS.js",
+		"/D/_ING/CABP/SU16/HTML/3/css/main.css",
+		"/D/_ING/CABP/SU16/HTML5/1.css",
+		"/D/_ING/CABP/SU16/HTML/ClassProject/css/header.css",
+		"/D/_ING/CABP/SU16/HTML/ClassProject/css/main.css",
+		"/D/_ING/CABP/SU16/HTML/4/style.css",
+		"/D/_ING/CABP/SU16/HTML/5/style.css",
+		"/D/_ING/CABP/SU16/HTML/3/tables.html",
+		"/D/_ING/CABP/SU16/HTML/4/session4.html",
+		"/D/_ING/CABP/SU16/HTML/3/sessionThree.html",
+		"/D/_ING/CABP/SU16/HTML/2/sessionTwo_Floats.html",
+		"/D/_ING/CABP/SU16/HTML/2/sessionTwo_B.html",
+		"/D/_ING/CABP/SU16/HTML/2/typography.html",
+		"/D/_ING/CABP/SU16/HTML/2/sessionTwo.html",
+		"/D/_ING/CABP/SU16/HTML/WebpagesQV/knowledgebase.html",
+		"/D/_ING/CABP/SU16/HTML/WebpagesQV/services.html",
+		"/D/_ING/CABP/SU16/HTML/WebpagesQV/products.html",
+		"/D/_ING/CABP/SU16/HTML/WebpagesQV/aboutus.html",
+		"/C/Users/V2WM_000/Desktop/firebug-lite/build/firebug-lite.js",
+		"/C/Users/V2WM_000/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/C/Users/V2WM_000/AppData/Roaming/Sublime Text 3/Packages/Highlighter/highlighter.sublime-settings",
+		"/D/_ING/CABP/SU16/HTML5/baruch-html5-session1/doodle.html",
+		"/D/_ING/CABP/SU16/HTML/WebpagesQV/css/header.css",
+		"/D/_ING/CABP/SU16/HTML/WebpagesQV/test.html",
+		"/D/_ING/CABP/SU16/HTML/ClassProject/classProject.html",
+		"/D/_ING/CABP/SU16/HTML/WebpagesQV/css/main.css",
+		"/C/Users/V2WM_000/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/V2WM_000/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/V2WM_000/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/V2WM_000/AppData/Roaming/Sublime Text 3/Packages/User/Autoprefixer.sublime-settings",
+		"/D/_ING/CABP/SU16/HTML/WebpagesQV/Main.css",
+		"/D/_ING/CABP/SU16/HTML/WebpagesQV/Front Page.html",
+		"/C/Users/V2WM_000/Desktop/Main.css",
+		"/C/Users/V2WM_000/Desktop/Front Page.html",
+		"/C/Users/V2WM_000/Desktop/AC WORKSHOPS.js",
+		"/C/Users/V2WM_000/Desktop/Workshop.js",
+		"/C/Users/V2WM_000/Desktop/Workshop2.js",
+		"/C/Users/V2WM_000/Desktop/WFW.html",
+		"/C/Users/V2WM_000/Desktop/TextGame.java",
+		"/D/_ING/CABP/SU16/HTML/htmlsessionthree/tables.html",
+		"/C/Users/V2WM_000/Desktop/Session 2 - Typography.html",
+		"/C/Users/V2WM_000/Desktop/Session 2 - Review.html",
+		"/C/Users/V2WM_000/Desktop/Session 2 - Columns.html",
+		"/C/Users/V2WM_000/Desktop/Session 2 - floats.html",
+		"/C/Users/V2WM_000/Desktop/Session 2.html",
+		"/C/Users/V2WM_000/Desktop/Session 4 - 1.html",
+		"/C/Users/V2WM_000/Desktop/HTML5 - Intro.html",
+		"/I/LOGIC/INTRODUCTION TO LOGIC/Exercises/Exercise 2.6.1 - Truth Table Method_files/epilog.js",
+		"/C/Users/V2WM_000/Desktop/HTML",
+		"/M/Oculus/360Videos/360 Tours Iceland.pvr"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bgvid",
+			"getElementsByTagName(\"body\")[0]",
+			"-c",
+			"getElementsByTagName(\"body\")",
+			"[0]",
+			"property",
+			"red",
+			".toString()",
+			"toString()",
+			"toString",
+			"parseInt",
+			"addThing",
+			"movieArray",
+			"[i]",
+			"movieIndex",
+			"0",
+			"movieArray",
+			"hello",
+			"print(",
+			"return",
+			"rgba(100, 0, 0, .5)",
+			"home",
+			"moonbeer",
+			"update",
+			"obj3",
+			"obj2",
+			"obj1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"console.log(",
+			"print(",
+			"rgba(0, 0, 100, .5)",
+			"index",
+			"object3",
+			"object2",
+			"object1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\_ING\\CABP\\SU16\\HTML\\3\\formatting.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
